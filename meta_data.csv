@@ -1,0 +1,997 @@
+book_id,Book_Name,guten_genre,Author_Name
+pg10067,The Mystery of the Boule Cabinet: A Detective Story,Detective and Mystery,Stevenson| Burton Egbert
+pg1032,The Pupil,Literary,James| Henry
+pg10379,At Love's Cost,Literary,Garvice| Charles
+pg10473,The Heart of the Range,Western Stories,White| William Patterson
+pg10812,The Worshipper of the Image,Literary,Gallienne| Richard Le
+pg10826,The Book-Bills of Narcissus - An Account Rendered by Richard Le Gallienne,Literary,Gallienne| Richard Le
+pg10943,Elusive Isabel,Detective and Mystery,Futrelle| Jacques
+pg11004,Joe Burke's Last Stand,Literary,Wetterau| John Moncure
+pg11005,O+F,Literary,Wetterau| John Moncure
+pg11259,Polly and the Princess,Literary,Dowd| Emma C.
+pg11280,Maggie Miller: The Story of Old Hagar's Secret,Literary,Holmes| Mary Jane
+pg11520,The Obstacle Race,Literary,Dell| Ethel M.
+pg11581,From out the Vasty Deep,Literary,Lowndes| Marie Belloc
+pg11655,Fate Knocks at the Door: A Novel,Literary,Comfort| Will Levington
+pg11674,The Torrent (Entre Naranjos),Literary,Ibez| Vicente Blasco
+pg1190,The Jolly Corner,Ghost and Horror,James| Henry
+pg1193,The Coxon Fund,Literary,James| Henry
+pg11931,The Mystery of Monastery Farm,Literary,Naylor| H. R.
+pg11970,Wife in Name Only,Literary,Brame| Charlotte M.
+pg12102,Darrel of the Blessed Isles,Literary,Bacheller| Irving
+pg1218,The Adventures of Jimmie Dale,Detective and Mystery,Packard| Frank L.
+pg12181,The Story of Bessie Costrell,Literary,Ward| Mrs. Humphry
+pg12303,Fated to Be Free: A Novel,Literary,Ingelow| Jean
+pg12304,Nancy: A Novel,Literary,Broughton| Rhoda
+pg12360,The Top of the World,Literary,Dell| Ethel M.
+pg12450,The Reason Why,Literary,Glyn| Elinor
+pg12453,Miriam Monfort - A Novel,Literary,Warfield| Catherine A.
+pg12470,A Perilous Secret,Literary,Reade| Charles
+pg12520,Deadham Hard: A Romance,Literary,Malet| Lucas
+pg1253,A Simple Soul,Literary,Flaubert| Gustave
+pg12672,A Spinner in the Sun,Literary,Reed| Myrtle
+pg1273,The Autobiography of a Slander,Literary,Lyall| Edna
+pg12733,Tokyo to Tijuana: Gabriele Departing America,Literary,Sills| Steven David Justin
+pg12886,The Coquette's Victim - Everyday Life Library No. 1,Literary,Brame| Charlotte M
+pg12935,The Song of the Blood-Red Flower,Literary,Linnankoski| Johannes
+pg12972,People Like That - A Novel,Literary,Bosher| Kate Langley
+pg12989,The Lady of Big Shanty,Literary,Smith| F. Berkeley
+pg13057,The Philanderers,Literary,Mason| A. E. W.
+pg13162,Coralie - Everyday Life Library No. 2,Literary,Brame| Charlotte M.
+pg13178,Broken to the Plow - A Novel,Literary,Dobie| Charles Caldwell
+pg13212,The Wild Olive: A Novel,Literary,King| Basil
+pg13257,The American Baron: A Novel,Literary,Mille| James De
+pg13273,Out of the Ashes,Literary,Grant| Ethel Watts Mumford
+pg13312,The Light That Lures,Literary,Brebner| Percy James
+pg13432,Miss Bretherton,Literary,Ward| Mrs. Humphry
+pg13454,Aylwin,Literary,Watts-Dunton| Theodore
+pg13541,The Collected Works of Ambrose Bierce- Volume 1,Literary,Bierce| Ambrose
+pg13572,The Son of Clemenceau- A Novel of Modern Love and Life,Literary,Dumas| Alexandre
+pg13776,One Day  A sequel to 'Three Weeks',Literary,Elinor Glyn
+pg13913,The Port of Missing Men,Literary,Nicholson| Meredith
+pg1392,The Seven Poor Travellers,Christmas Stories,Dickens| Charles
+pg13960,Charles Rex,Love and Romance,Dell| Ethel M.
+pg13985,V. V.'s Eyes,Literary,Harrison| Henry Sydnor
+pg14051,The End of the World: A Love Story,Love and Romance,Eggleston| Edward
+pg14079,Sandy,Sea and Adventure,Rice| Alice Caldwell Hegan
+pg14145,If Winter Comes,Literary,Hutchinson| A. S. M.
+pg1422,Going into Society,Literary,Dickens| Charles
+pg14253,Flames,Literary,Hichens| Robert
+pg14303,Queed - A Novel,Literary,Harrison| Henry Sydnor
+pg14382,The Missing Bride,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg14395,Septimus,Literary,Locke| William John
+pg14420,The Exemplary Novels of Cervantes,Literary,Saavedra| Miguel de Cervantes
+pg14427,True Love's Reward - A Sequel to Mona,Literary,Sheldon| Mrs. Georgie
+pg14454,The Doctor's Dilemma,Literary,Stretton| Hesba
+pg14490,A Daughter of To-Day,Literary,Duncan| Sara Jeannette
+pg14523,Sister Carmen,Literary,Corvus| M.
+pg14581,The Just and the Unjust,Literary,Kester| Vaughan
+pg14605,The Devil's Garden,Literary,Maxwell| W. B.
+pg14669,Jaffery,Literary,Locke| William John
+pg14687,Christian's Mistake,Literary,Craik| Dinah Maria Mulock
+pg14708,The Laurel Bush: An Old-Fashioned Love Story,Love and Romance,Craik| Dinah Maria Mulock
+pg14712,Vandover and the Brute,Literary,Norris| Frank
+pg14852,The Younger Set,Literary,Chambers| Robert W.
+pg14858,The Man Thou Gavest,Literary,Comstock| Harriet T.
+pg14885,Red Pottage,Literary,Cholmondeley| Mary
+pg15013,The Keeper of the Door,Literary,Dell| Ethel M.
+pg15067,The Cathedral,Literary,Huysmans| J.-K.
+pg15094,The Cab of the Sleeping Horse,Literary,Scott| John Reed
+pg15116,The Jervaise Comedy,Literary,Beresford| J. D.
+pg15117,"Sea and Shore - A Sequel to ""Miriam's Memoirs""",Literary,Warfield| Catherine A.
+pg15123,David Lockwin—The People's Idol,Literary,McGovern| John
+pg15179,The Inner Sisterhood - A Social Study in High Colors,Literary,Sherley| Douglass
+pg15181,My Mother's Rival - Everyday Life Library No. 4,Literary,Brame| Charlotte M.
+pg15182,Marion Arleigh's Penance - Everyday Life Library No. 5,Literary,Brame| Charlotte M.
+pg15183,The Tragedy of the Chain Pier - Everyday Life Library No. 3,Literary,Brame| Charlotte M.
+pg15244,Lewie - The Bended Twig,Literary,Bradford| Sarah H.
+pg15275,Bessie's Fortune: A Novel,Literary,Holmes| Mary Jane
+pg15315,Gladys- the Reaper,Literary,Beale| Anne
+pg15317,The Baronet's Bride- A Woman's Vengeance,Literary,Fleming| May Agnes
+pg15321,Tracy Park: A Novel,Literary,Holmes| Mary Jane
+pg15430,The Lever: A Novel,Literary,Orcutt| William Dana
+pg15498,Trumps,Literary,Curtis| George William
+pg15527,Captivity,Literary,Eyles| Leonora
+pg15671,A Splendid Hazard,Literary,MacGrath| Harold
+pg15704,Far to Seek - A Romance of England and India,Literary,Diver| Maud
+pg15743,Bunker Bean,Literary,Wilson| Harry Leon
+pg15774,Ishmael- In the Depths,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg15793,An Unpardonable Liar,Literary,Parker| Gilbert
+pg15797,The Seeker,Literary,Wilson| Harry Leon
+pg15799,Walter Harland - Memories of the Past,Literary,Caswell| Harriet S.
+pg15864,Garman and Worse: A Norwegian Novel,Literary,Kielland| Alexander Lange
+pg15875,The Unseen Bridegroom- Wedded For a Week,Literary,Fleming| May Agnes
+pg15895,Allegories of Life,Allegories,Adams| Mrs. J. S.
+pg15934,His Excellency the Minister,Literary,Claretie| Jules
+pg15941,An Englishwoman's Love-Letters,Literary,Housman| Laurence
+pg15989,The Fatal Glove,Literary,Augusta| Clara
+pg16039,The Lost Lady of Lone,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg16080,Uncle Max,Literary,Carey| Rosa Nouchette
+pg16094,For Woman's Love,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg16137,The Hoyden,Literary,Duchess|
+pg16138,The Cromptons,Literary,Holmes| Mary Jane
+pg16143,A Man and a Woman,Literary,Waterloo| Stanley
+pg16217,Prince Fortunatus,Literary,Black| William
+pg16252,Jan: A Dog and a Romance,Literary,Dawson| A. J.
+pg16283,Idolatry: A Romance,Literary,Hawthorne| Julian
+pg1634,The Foolish Virgin,Literary,Dixon| Thomas
+pg16345,Ellen Walton - The Villain and His Victims,Literary,Addison| Alvin
+pg16381,The Summons,Literary,Mason| A. E. W.
+pg16398,What Necessity Knows,Literary,Dougall| L.
+pg16403,Led Astray and The Sphinx - Two Novellas In One Volume,Literary,Feuillet| Octave
+pg16453,The Measure of a Man,Literary,Barr| Amelia E.
+pg16497,The Moon out of Reach,Love and Romance,Pedler| Margaret
+pg16554,Foes,Literary,Johnston| Mary
+pg16574,The Twins - A Domestic Novel,Literary,Tupper| Martin Farquhar
+pg16612,The Lee Shore,Literary,Macaulay| Rose
+pg16662,Bad Hugh,Literary,Holmes| Mary Jane
+pg16676,Eveline Mandeville - The Horse Thief Rival,Literary,Addison| Alvin
+pg16682,Adrien Leroy,Literary,Garvice| Charles
+pg16703,A Comedy of Masks: A Novel,Literary,Dowson| Ernest Christopher| Moore| Arthur
+pg16719,The Husbands of Edith,Literary,McCutcheon| George Barr
+pg16720,Marzio's Crucifix and Zoroaster,Literary,Crawford| F. Marion
+pg16730,Mike Fletcher: A Novel,Literary,Moore| George Augustus
+pg16771,Jacqueline of Golden River,Literary,Egbert| H. M.
+pg16788,My Little Lady,Literary,Poynter| E. Frances
+pg16798,Elster's Folly: A Novel,Literary,Wood| Mrs. Henry
+pg16799,Dangerous Ages,Literary,Macaulay| Rose
+pg16803,Lydia of the Pines,Literary,Morrow| Honor
+pg16836,Mark Hurdlestone - The Two Brothers,Literary,Moodie| Susanna
+pg16909,The Halo,Literary,Hutten| Bettina Von
+pg16919,The Bradys and the Girl Smuggler Working for the Custom House,Detective and Mystery,Doughty| Francis Worcester
+pg16968,The Bad Man: A Novel,Literary,Browne| Porter Emerson| Towne| Charles Hanson
+pg1699,The Vanished Messenger,Detective and Mystery,Oppenheim| E. Phillips
+pg16993,Miss Dexie - A Romance of the Provinces,Literary,Eveleth| Stanford
+pg17047,The Half-Hearted,Sea and Adventure,Buchan| John
+pg17048,The Man and the Moment,Literary,Glyn| Elinor
+pg17062,The Crock of Gold - A Rural Novel,Literary,Tupper| Martin Farquhar
+pg17084,Guy Livingstone'Thorough',Literary,Lawrence| George A.
+pg17141,Destiny,Literary,Buck| Charles Neville
+pg17191,The Actress in High Life - An Episode in Winter Quarters,Literary,Bowen| Sue Petigru
+pg17241,Atlantis,Literary,Hauptmann| Gerhart
+pg17308,Sunrise,Literary,Black| William
+pg17359,Arms and the Woman,Love and Romance,MacGrath| Harold
+pg17390,Hearts and Masks,Literary,MacGrath| Harold
+pg17402,The Adventures of Kathlyn,Literary,MacGrath| Harold
+pg17434,The Thin Red Line  and Blue Blood,Literary,Griffiths| Arthur
+pg17446,The Second Honeymoon,Literary,Ayres| Ruby M.
+pg1747,The Red Seal,Literary,Lincoln| Natalie Sumner
+pg1748,Other People's Money,Detective and Mystery,Gaboriau| Emile
+pg17559,On the Church Steps,Literary,Hallowell| Sarah C.
+pg17564,By the Light of the Soul: A Novel,Literary,Freeman| Mary Eleanor Wilkins
+pg17642,Romance,Literary,Conrad| Joseph| Ford| Ford Madox
+pg17698,Bella Donna: A Novel,Literary,Hichens| Robert
+pg17745,The Courage of Marge O'Doone,Literary,Curwood| James Oliver
+pg17806,Foes in Ambush,Literary,King| Charles
+pg17938,Contrary Mary,Literary,Bailey| Temple
+pg18022,Betty at Fort Blizzard,Literary,Seawell| Molly Elliot
+pg18052,Medoline Selwyn's Work,Literary,Colter| Mrs. J. J.
+pg18054,The Zeit-Geist,Literary,Dougall| L.
+pg1809,Bucky O'Connor: A Tale of the Unfenced Border,Western Stories,Raine| William MacLeod
+pg18239,The Road to Mandalay - A Tale of Burma,Literary,Croker| B. M.
+pg18259,Gentle Julia,Literary,Tarkington| Booth
+pg18280,Enter Bridget,Literary,Cobb| Thomas
+pg1832,The Case of the Lamp That Went Out,Detective and Mystery,Groner| Auguste
+pg1833,The Case of the Registered Letter,Detective and Mystery,Groner| Auguste
+pg18336,The Lighted Match,Literary,Buck| Charles Neville
+pg1834,The Case of the Pocket Diary Found in the Snow,Detective and Mystery,Groner| Auguste
+pg1835,The Case of the Pool of Blood in the Pastor's Study,Detective and Mystery,Groner| Auguste
+pg1836,The Case of the Golden Bullet,Detective and Mystery,Groner| Auguste
+pg18434,A Melody in Silver,Literary,Abbott| Keene
+pg18443,Parrot & Co.,Literary,MacGrath| Harold
+pg18449,The Treasure of Heaven: A Romance of Riches,Literary,Corelli| Marie
+pg1846,The Vision Splendid,Western Stories,Raine| William MacLeod
+pg18488,The Place Beyond the Winds,Literary,Comstock| Harriet T.
+pg18489,A Court of Inquiry,Literary,Richmond| Grace S.
+pg1849,The Yellow Crayon,Detective and Mystery,Oppenheim| E. Phillips
+pg1851,The Woman in the Alcove,Detective and Mystery,Green| Anna Katharine
+pg18545,A Mummer's Tale,Literary,France| Anatole
+pg1857,Initials Only,Detective and Mystery,Green| Anna Katharine
+pg18572,The President: A Novel,Literary,Lewis| Alfred Henry
+pg18705,The Poor Plutocrats,Literary,Jkai| Mr
+pg18708,Dr. Dumany's Wife,Literary,Jkai| Mr
+pg1875,Painted Windows,Literary,Peattie| Elia Wilkinson
+pg1878,A Millionaire of Yesterday,Detective and Mystery,Oppenheim| E. Phillips
+pg18822,The House of Martha,Literary,Stockton| Frank Richard
+pg18829,Winner Take All,Literary,Evans| Larry
+pg1888,The Bittermeads Mystery,Detective and Mystery,Punshon| E. R.
+pg18894,Then I'll Come Back to You,Literary,Evans| Larry
+pg1897,The Seventh Man,Western Stories,Brand| Max
+pg18984,The Starbucks,Literary,Read| Opie Percival
+pg19121,Sword and Gown: A Novel,Literary,Lawrence| George A.
+pg19147,The House in the Mist,Detective and Mystery,Green| Anna Katharine
+pg19173,The Cow Puncher,Literary,Stead| Robert J. C.
+pg19204,Lady Larkspur,Literary,Nicholson| Meredith
+pg19224,The Alchemist's Secret,Literary,Williams| Isabel Cecilia
+pg19225,Joyce of the North Woods,Literary,Comstock| Harriet T.
+pg19257,Michael McGrath- Postmaster,Literary,Connor| Ralph
+pg19259,His Heart's Queen,Literary,Sheldon| Mrs. Georgie
+pg19459,Born Again,Literary,Lawson| Alfred W.
+pg19472,Branded,Western Stories,Lynde| Francis
+pg19510,North of Fifty-Three,Literary,Sinclair| Bertrand W.
+pg19512,Kate Danton- Captain Danton's Daughters: A Novel,Literary,Fleming| May Agnes
+pg1960,Sight Unseen,Detective and Mystery,Rinehart| Mary Roberts
+pg1963,The Confession,Detective and Mystery,Rinehart| Mary Roberts
+pg19818,Dixie Hart,Literary,Harben| Will N.
+pg20235,Heart - A Social Novel,Literary,Tupper| Martin Farquhar
+pg20257,A Political Romance,Literary,Sterne| Laurence
+pg20359,The Lovely Lady,Literary,Austin| Mary Hunter
+pg20424,A Son of the Hills,Literary,Comstock| Harriet T.
+pg20429,The Seventh Noon,Literary,Bartlett| Frederick Orin
+pg20458,The Triflers,Literary,Bartlett| Frederick Orin
+pg20462,Ernest Linwood- The Inner Life of the Author,Literary,Hentz| Caroline Lee
+pg20610,The Complete Prose Works of Martin Farquhar Tupper,Literary,Tupper| Martin Farquhar
+pg20615,The Master-Knot of Human Fate,Literary,Meredith| Ellis
+pg20661,The Romance of an Old Fool,Love and Romance,Field| Roswell Martin
+pg20835,The Monctons: A Novel. Volume 1 (of 2),Literary,Moodie| Susanna
+pg20901,In Apple-Blossom Time: A Fairy-Tale to Date,Love and Romance,Burnham| Clara Louise
+pg21067,Overdue: The Story of a Missing Ship,Sea and Adventure,Collingwood| Harry
+pg21087,The Ghost Ship: A Mystery of the Sea,Sea and Adventure,Hutcheson| John C.
+pg2155,Phyllis of Philistia,Literary,Moore| Frank Frankfort
+pg21578,Rattlin the Reefer,Sea and Adventure,Howard| Edward
+pg21613,On the Stairs,Literary,Fuller| Henry Blake
+pg21641,April's Lady: A Novel,Literary,Duchess|
+pg21674,The Making of a Soul,Literary,Rhodes| Kathlyn
+pg21689,The Tyranny of Weakness,Literary,Buck| Charles Neville
+pg21690,Flint: His Faults- His Friendships and His Fortunes,Literary,Goodwin| Maud Wilder
+pg21767,Agatha's Husband: A Novel,Literary,Craik| Dinah Maria Mulock
+pg21821,The Mark Of Cain,Literary,Lang| Andrew
+pg21858,The Daughters of Danaus,Literary,Caird| Mona
+pg21867,Afterwards,Literary,Rhodes| Kathlyn
+pg21870,Luna Benamor,Literary,Ibez| Vicente Blasco
+pg21887,Blacksheep! Blacksheep!,Sea and Adventure,Nicholson| Meredith
+pg21932,Embarrassments,Literary,James| Henry
+pg21944,The Pleasant Street Partnership: A Neighborhood Story,Literary,Leonard| Mary Finley
+pg22158,The Lure of the Mask,Literary,MacGrath| Harold
+pg22202,Aunt Rachel - A Rustic Sentimental Comedy,Literary,Murray| David Christie
+pg22205,In Direst Peril,Literary,Murray| David Christie
+pg22206,An Old Meerschaum - From Coals Of Fire And Other Stories- Volume II. (of III.),Literary,Murray| David Christie
+pg22207,The Romance Of Giovanni Calvotti - From Coals Of Fire And Other Stories- Volume II. (of III.),Literary,Murray| David Christie
+pg22208,Cruel Barbara Allen - From Coals Of Fire And Other Stories- Volume II. (of III.),Literary,Murray| David Christie
+pg22214,Molly Bawn,Literary,Duchess| 
+pg22221,Oswald Langdon - Pierre and Paul Lanier. A Romance of 1894-1898,Literary,Hamilton| Levi Jackson
+pg22271,"Schwartz: A History - From ""Schwartz"" by David Christie Murray",Literary,Murray| David Christie
+pg22272,"Young Mr. Barter's Repentance - From ""Schwartz"" by David Christie Murray",Literary,Murray| David Christie
+pg22273,"Bulldog And Butterfly - From ""Schwartz"" by David Christie Murray",Literary,Murray| David Christie
+pg22274,"Julia And Her Romeo: A Chronicle Of Castle Barfield - From ""Schwartz"" by David Christie Murray",Literary,Murray| David Christie
+pg22275,VC — A Chronicle of Castle Barfield and of the Crimea,Literary,Murray| David Christie
+pg22276,Despair's Last Journey,Literary,Murray| David Christie
+pg22476,"The Tale Of Mr. Peter Brown - Chelsea Justice - From ""The New Decameron""|| Volume III.",Literary,Sackville-West| Vita
+pg22532,Mary Louise and Josie O'Gorman,Literary,Sampson| Emma Speed
+pg22660,King Candaules,Literary,Gautier| Thophile
+pg22781,32 Caliber,Literary,McGibeny| Donald
+pg2287,Havoc,Detective and Mystery,Oppenheim| E. Phillips
+pg22883,Doctor Luttrell's First Patient,Love and Romance,Carey| Rosa Nouchette
+pg22961,Nell- of Shorne Mills- One Heart's Burden,Literary,Garvice| Charles
+pg23009,A Modern Idyll,Literary,Harris| Frank
+pg23010,Gulmore- The Boss,Literary,Harris| Frank
+pg23012,Elder Conklin,Literary,Harris| Frank
+pg23106,Helen and Arthur- Miss Thusa's Spinning Wheel,Literary,Hentz| Caroline Lee
+pg23118,A Chinese Command: A Story of Adventure in Eastern Seas,Sea and Adventure,Collingwood| Harry
+pg23157,Other People's Business: The Romantic Career of the Practical Miss Dale,Literary,Smith| Harriet L.
+pg23215,Old Ebenezer,Literary,Read| Opie Percival
+pg23222,The Fête At Coqueville - 1907,Literary,Zola| ile
+pg23223,Good Blood,Literary,Wildenbruch| Ernst von
+pg23246,Mistress Anne,Literary,Bailey| Temple
+pg23420,The Folly Of Eustace - 1896,Literary,Hichens| Robert
+pg23606,The Man Next Door,Literary,Hough| Emerson
+pg23629,The Riddle Of The Rocks - 1895,Literary,Murfree| Mary Noailles
+pg23630,The Phantoms Of The Foot-Bridge - 1895,Literary,Murfree| Mary Noailles
+pg23631,The Moonshiners At Hoho-Hebee Falls - 1895,Literary,Murfree| Mary Noailles
+pg23632,'way Down In Lonesome Cove - 1895,Literary,Murfree| Mary Noailles
+pg23633,"His ""Day In Court"" - 1895",Literary,Murfree| Mary Noailles
+pg23664,Flamsted quarries,Literary,Waller| Mary E.
+pg23736,The Dew of Their Youth,Literary,Crockett| S. R.
+pg23741,David Malcolm,Literary,Lloyd| Nelson
+pg23745,Aladdin & Co.: A Romance of Yankee Magic,Literary,Quick| Herbert
+pg23789,Cruel As The Grave,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg23797,A True Friend: A Novel,Literary,Sergeant| Adeline
+pg24769,The Opal Serpent,Detective and Mystery,Hume| Fergus
+pg24920,The Book of All-Power,Literary,Wallace| Edgar
+pg25702,The Kingdom Round the Corner: A Novel,Literary,Ashford| Angela| Ashford| Daisy
+pg25730,An Apostate: Nawin of Thais,Literary,Dawson| Coningsby
+pg26259,Her Mother's Secret,Literary,Hume| Fergus
+pg26277,Margarita's Soul: The Romantic Recollections of a Man of Fifty,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg26306,Simon,Detective and Mystery,Bacon| Josephine Daskam
+pg26482,Madeline Payne- the Detective's Daughter,Detective and Mystery,Lynch| Lawrence L.
+pg2675,Burlesques,Literary,Lynch| Lawrence L.
+pg26768,Ringfield: A Novel,Literary,Thackeray| William Makepeace
+pg26828,A Red Wallflower,Literary,Harrison| S. Frances
+pg26847,A Pessimist in Theory and Practice,Literary,Warner| Susan
+pg26925,The Bradys Beyond Their Depth- The Great Swamp Mystery,Detective and Mystery,Bird| Frederic Mayer
+pg27323,Bird of Paradise,Literary,Seltzer| Charles Alden
+pg27507,The Giant's Robe,Literary,Sabin| Edwin L.
+pg27549,The Seven Secrets,Detective and Mystery,Anstey| F.
+pg27709,Five O'Clock Tea: Farce,Literary,Queux| William Le
+pg27838,A Bachelor's Dream,Literary,Howells| William Dean
+pg27857,The Dominant Dollar,Literary,Duchess|
+pg27909,Dick Leslie's Luck: A Story of Shipwreck and Adventure,Sea and Adventure,Lillibridge| Will
+pg28229,Anderson Crow- Detective,Detective and Mystery,Morris| Gouverneur
+pg28236,A Romantic Young Lady,Literary,McCutcheon| George Barr
+pg28301,The Beloved Woman,Literary,Grant| Robert
+pg28459,In Brief Authority,Literary,Norris| Kathleen Thompson
+pg28463,Not Like Other Girls,Literary,Anstey| F.
+pg28465,The Limit,Literary,Leverson| Ada
+pg28509,The Brass Bound Box,Literary,Raymond| Evelyn
+pg28717,Wee Wifie,Literary,Carey| Rosa Nouchette
+pg28925,Lover or Friend,Literary,Carey| Rosa Nouchette
+pg29071,Chit-Chat  Nirvana  The Searchlight,Literary,Holt| Mathew Joseph
+pg29207,Cleo The Magnificent- The Muse of the Real: A Novel,Literary,Zangwill| Louis
+pg29219,The First Violin - A Novel,Literary,Fothergill| Jessie
+pg29274,People of Position,Literary,Hyatt| Stanley Portal
+pg29315,Australia Revenged,Literary,Boomerang|
+pg29323,An Old Sailor's Yarns,Sea and Adventure,Ames| N.
+pg29366,The Prisoner,Literary,Brown| Alice
+pg29400,Murder Point: A Tale of Keewatin,Detective and Mystery,Dawson| Coningsby
+pg29570,Rope,Literary,Hall| Holworthy
+pg29646,Once to Every Man,Literary,Evans| Larry
+pg29657,Mixed Faces,Literary,Norton| Roy
+pg29671,Nobody,Literary,Vance| Louis Joseph
+pg29695,The Hound From The North,Literary,Cullum| Ridgwell
+pg29697,The Heart of Thunder Mountain,Literary,Bingham| Edfrid A.
+pg29699,Hetty's Strange History,Literary,Jackson| Helen Hunt
+pg29715,The Princess Virginia,Literary,Williamson| A. M.| Williamson| C. N.
+pg29726,The Strollers,Literary,Isham| Frederic Stewart
+pg29729,Victor's Triumph - Sequel to A Beautiful Fiend,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg29743,The Missionary,Literary,Griffith| George Chetwynd
+pg29753,The Gorgeous Girl,Literary,Bartley| Nalbro
+pg29760,The Dominant Strain,Literary,Ray| Anna Chapin
+pg29766,Audrey Craven,Literary,Sinclair| May
+pg29808,The Man Who Wins,Literary,Herrick| Robert
+pg29847,The Paliser case,Literary,Saltus| Edgar
+pg29851,Dwellers in the Hills,Literary,Post| Melville Davisson
+pg29860,A Great Man: A Frolic,Literary,Bennett| Arnold
+pg29862,The Old Countess- The Two Proposals,Literary,Stephens| Ann S.
+pg29868,Love and Lucy,Literary,Hewlett| Maurice
+pg29880,The Crimson Tide: A Novel,Literary,Chambers| Robert W.
+pg29890,The Doctor's Family,Literary,Oliphant| Mrs.
+pg29891,The Rector,Literary,Oliphant| Mrs.
+pg29902,Changing Winds - A Novel,Literary,Ervine| St. John G.
+pg29945,Jan and Her Job,Literary,Harker| L. Allen
+pg30031,The Eye of Dread,Literary,Erskine| Payne
+pg30037,In the Shadow of the Hills,Literary,Shedd| George C.
+pg30074,Jessica- the Heiress,Literary,Raymond| Evelyn
+pg30075,Our Next-Door Neighbors,Literary,Maniates| Belle Kanaris
+pg30087,Amaryllis at the Fair,Literary,Jefferies| Richard
+pg30089,Young Barbarians,Literary,Maclaren| Ian
+pg30090,Robinetta,Literary,Findlater| Jane Helen| Findlater| Mary| McAulay| Allan| Wiggin| Kate Douglas Smith
+pg30095,At the Crossroads,Literary,Comstock| Harriet T.
+pg30106,The Vast Abyss - The Story of Tom Blount- his Uncles and his Cousin Sam,Literary,Fenn| George Manville
+pg30108,The Quality of Mercy,Literary,Howells| William Dean
+pg30110,Name and Fame: A Novel,Literary,Sergeant| Adeline
+pg30111,A Noble Woman,Literary,Stephens| Ann S.
+pg30115,Tante,Literary,Sedgwick| Anne Douglas
+pg30137,Daisy Brooks- A Perilous Love,Sea and Adventure,Libbey| Laura Jean
+pg30183,A Manual of the Art of Fiction,Literary,Hamilton| Clayton Meeker
+pg30193,East of the Shadows,Literary,Barclay| Mrs. Hubert
+pg30228,Officer 666,Literary,Currie| Barton Wood| McHugh| Augustin
+pg30245,Phemie Frost's Experiences,Literary,Stephens| Ann S.
+pg30247,Mabel's Mistake,Literary,Stephens| Ann S.
+pg30263,A Captain in the Ranks: A Romance of Affairs,Literary,Eggleston| George Cary
+pg30286,The Phantom Lover,Literary,Ayres| Ruby M.
+pg30302,The Benefactress,Literary,Arnim| Elizabeth Von
+pg30436,Hope Mills- Between Friend and Sweetheart,Literary,Douglas| Amanda M.
+pg30448,The Lieutenant-Governor: A Novel,Literary,Carryl| Guy Wetmore
+pg30464,A Manifest Destiny,Literary,Magruder| Julia
+pg30466,Wild Oranges,Literary,Hergesheimer| Joseph
+pg30483,Outside Inn,Literary,Kelley| Ethel M.
+pg305,The Count's Millions,Detective and Mystery,Gaboriau| Emile
+pg30600,The Pines of Lory,Literary,Mitchell| John Ames
+pg30617,A Danish Parsonage,Literary,Vicary| John Fulford
+pg30618,Wings of the Wind,Literary,Harris| Credo Fitch
+pg30627,In the Heart of a Fool,Literary,White| William Allen
+pg30640,Anything Once,Literary,Ostrander| Isabel
+pg30648,An Ocean Tramp,Literary,McFee| William
+pg30668,Daisy's Necklace- and What Came of It,Literary,Aldrich| Thomas Bailey
+pg30692,Sir Tom,Literary,Oliphant| Mrs.
+pg30704,The Record of Nicholas Freydon - An Autobiography,Literary,Dawson| A. J.
+pg30713,Captain Pott's Minister,Literary,Cooper| Francis L.
+pg30724,Absolution,Literary,Viebig| Clara
+pg30733,The Fate of Felix Brand,Literary,Kelly| Florence Finch
+pg30736,Clark's Field,Literary,Herrick| Robert
+pg30776,Materials and Methods of Fiction - With an Introduction by Brander Matthews,Literary,Hamilton| Clayton Meeker
+pg30817,The Beggar Man,Literary,Ayres| Ruby M.
+pg30838,Ashton-Kirk- Criminologist,Detective and Mystery,McIntyre| John Thomas
+pg30980,Kidnapped at the Altar- The Romance of that Saucy Jessie Bain,Sea and Adventure,Libbey| Laura Jean
+pg31004,Ten Thousand a-Year. Volume 1.,Literary,Warren| Samuel
+pg31083,The Recipe for Diamonds,Sea and Adventure,Hyne| Charles John Cutcliffe Wright
+pg31241,Aliens,Literary,McFee| William
+pg31561,Cupid's Middleman,Literary,Lent| Edward B.
+pg31563,"Walladmor- Vol. 1 (of 2) - ""Freely Translated into German from the English of Sir Walter Scott."" And Now Freely Translated from the German into English.",Literary,Alexis| Willibald
+pg31568,"Walladmor- Vol. 2 (of 2) - ""Freely Translated into German from the English of Sir Walter Scott."" And Now Freely Translated from the German into English.",Literary,Alexis| Willibald
+pg31578,Room Number 3- and Other Detective Stories,Detective and Mystery,Green| Anna Katharine
+pg31668,The Serapion Brethren- Vol. II,Literary,Hoffmann| E. T. A.
+pg31813,Checkers: A Hard-luck Story,Literary,Blossom| Henry
+pg31820,The Serapion Brethren- Vol. I.,Literary,Hoffmann| E. T. A.
+pg31825,Portia- By Passions Rocked,Literary,Duchess|
+pg31915,An Artist in Crime,Detective and Mystery,Ottolengui| Rodrigues
+pg31927,The Portal of Dreams,Literary,Buck| Charles Neville
+pg31984,A Life Sentence: A Novel,Literary,Sergeant| Adeline
+pg32042,Captain Macedoine's Daughter,Literary,McFee| William
+pg32082,A Rent In A Cloud,Literary,Lever| Charles James
+pg32114,Command,Sea and Adventure,McFee| William
+pg32115,Rose MacLeod,Literary,Brown| Alice
+pg32116,When the Cock Crows,Literary,Baily| Waldron
+pg32132,Long Live the King!,Literary,Boothby| Guy
+pg32424,Arthur O'Leary: His Wanderings And Ponderings In Many Lands,Literary,Lever| Charles James
+pg32428,The Brightener,Literary,Williamson| A. M.| Williamson| C. N.
+pg32516,A Marriage at Sea,Sea and Adventure,Russell| William Clark
+pg32560,Gerald Fitzgerald- the Chevalier: A Novel,Sea and Adventure,Viebig| Clara
+pg32576,A Novelist on Novels,Literary,George| Walter Lionel
+pg32692,A Day's Ride: A Life's Romance,Literary,Lever| Charles James
+pg32693,That Boy Of Norcott's,Literary,Lever| Charles James
+pg32732,Jacob's Ladder,Detective and Mystery,Oppenheim| E. Phillips
+pg32757,"Tried for Her Life - A Sequel to ""Cruel As the Grave""",Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg32826,Fairfax and His Pride: A Novel,Literary,Vorst| Marie Van
+pg32840,One Of Them,Literary,Lever| Charles James
+pg32882,Lady Cassandra,Literary,Vaizey| Mrs. George de Horne
+pg32915,Sir Hilton's Sin,Literary,Fenn| George Manville
+pg32917,The Sapphire Cross,Literary,Fenn| George Manville
+pg32929,Thereby Hangs a Tale. Volume One,Literary,Fenn| George Manville
+pg32936,An Unknown Lover,Literary,Vaizey| Mrs. George de Horne
+pg33004,The Red Rat's Daughter,Detective and Mystery,Boothby| Guy
+pg33019,The Green God,Detective and Mystery,Kummer| Frederic Arnold
+pg33081,Sir Jasper Carew: His Life and Experience,Literary,Lever| Charles James
+pg33099,The Truth About Tristrem Varick: A Novel,Literary,Saltus| Edgar
+pg33195,Was It Right to Forgive? A Domestic Romance,Literary,Barr| Amelia E.
+pg33312,Faith and Unfaith: A Novel,Literary,Duchess|
+pg33401,The Little Schoolmaster Mark: A Spiritual Romance,Literary,Davis| Richard Harding
+pg33423,A Man in the Open,Literary,Pocock| Roger
+pg33468,Roland Cashel- Volume I (of II),Literary,Lever| Charles James
+pg33469,Roland Cashel- Volume II (of II),Literary,Lever| Charles James
+pg33482,The Furnace,Literary,Macaulay| Rose
+pg33490,The Gambler: A Novel,Literary,Thurston| Katherine Cecil
+pg33498,Bransford of Rainbow Range - Originally Published under the title of Bransford in Arcadia- The Little Eohippus,Western Stories,Rhodes| Eugene Manlove
+pg33556,The Fortunes Of Glencore,Literary,Lever| Charles James
+pg33565,The Bachelors: A Novel,Literary,Orcutt| William Dana
+pg33604,Tony Butler,Literary,Lever| Charles James
+pg33664,Norine's Revenge- and- Sir Noel's Heir,Literary,Fleming| May Agnes
+pg33695,X Y Z: A Detective Story,Detective and Mystery,Green| Anna Katharine
+pg33715,The Cottage of Delight: A Novel,Literary,Harben| Will N.
+pg33747,An Engagement of Convenience: A Novel,Literary,Zangwill| Louis
+pg33759,The Key to Yesterday,Literary,Buck| Charles Neville
+pg33780,The Haunted Pajamas,Literary,Elliott| Francis Perry
+pg33867,King of Camargue,Literary,Aicard| Jean
+pg33892,Regina- or the Sins of the Fathers,Literary,Sudermann| Hermann
+pg33945,The Unknown Sea,Allegories,Housman| Clemence
+pg33959,The Reclaimers,Literary,McCarter| Margaret Hill
+pg33973,The Mysterious Wanderer- Vol. I,Literary,Reeve| Sophia
+pg33989,Love Works Wonders: A Novel,Literary,Brame| Charlotte M.
+pg34034,The Belovéd Traitor,Literary,Packard| Frank L.
+pg34035,The Hillman,Detective and Mystery,Oppenheim| E. Phillips
+pg34046,Whispering Wires,Detective and Mystery,Leverage| Henry
+pg34088,A Poached Peerage,Literary,Magnay| Sir William
+pg34138,Lady Maude's Mania,Literary,Fenn| George Manville
+pg34140,A Double Knot,Literary,Fenn| George Manville
+pg34142,By Birth a Lady,Literary,Fenn| George Manville
+pg34164,A Blot on the Scutcheon,Literary,Knowles| Mabel Winifred
+pg34166,Capricious Caroline,Literary,Rowlands| Effie Adelaide
+pg34168,Zula,Literary,Lindley| H. Esselstyn
+pg34202,The Girl From Tim's Place,Literary,Munn| Charles Clark
+pg34244,The Star-Gazers,Literary,Fenn| George Manville
+pg34246,Of High Descent,Literary,Fenn| George Manville
+pg34248,The Man with a Shadow,Literary,Fenn| George Manville
+pg34277,A Mysterious Disappearance,Detective and Mystery,Tracy| Louis
+pg34402,Phases of an Inferior Planet,Literary,Glasgow| Ellen Anderson Gholson
+pg34415,For the Allinson Honor,Literary,Bindloss| Harold
+pg34428,Alas! A Novel,Literary,Broughton| Rhoda
+pg34482,The Rosery Folk,Literary,Fenn| George Manville
+pg34500,The Gold Brick,Literary,Stephens| Ann S.
+pg34567,Paradise Bend,Western Stories,White| William Patterson
+pg34575,The Triumph of Virginia Dale,Literary,Francis| John
+pg34587,Mrs. Halliburton's Troubles,Literary,Trevena| John
+pg34598,Through Night to Light: A Novel,Literary,Spielhagen| Friedrich
+pg34599,What the Swallow Sang: A Novel,Literary,Spielhagen| Friedrich
+pg34609,King of the Castle,Literary,Fenn| George Manville
+pg34616,Barren Honour: A Novel,Literary,Lawrence| George A.
+pg34619,The Gateless Barrier,Ghost and Horror,Malet| Lucas
+pg34628,I- Thou- and the Other One: A Love Story,Love and Romance,Barr| Amelia E.
+pg34629,The Mysterious Wanderer  Vol. II,Literary,Reeve| Sophia
+pg34657,The Breaking of the Storm- Vol. I.,Literary,Spielhagen| Friedrich
+pg34658,The Breaking of the Storm- Vol. II.,Literary,Spielhagen| Friedrich
+pg34659,The Breaking of the Storm- Vol. III.,Literary,Spielhagen| Friedrich
+pg34662,Willing to Die: A Novel,Literary,Fanu| Joseph Sheridan Le
+pg34663,Commodore Junk,Literary,Fenn| George Manville
+pg34664,The Mynns' Mystery,Detective and Mystery,Fenn| George Manville
+pg34709,The Man with the Double Heart,Literary,Hine| Muriel
+pg34710,One of My Sons,Detective and Mystery,Green| Anna Katharine
+pg34738,The Ivory Gate- a new edition,Literary,Besant| Walter
+pg34748,Problematic Characters: A Novel,Literary,Spielhagen| Friedrich
+pg34794,Englefield Grange- Mary Armstrong's Troubles,Literary,Paull| Mrs. H. B.
+pg34835,The Pagan's Cup,Detective and Mystery,Abbott| Eleanor Hallowell
+pg34849,The Rival Crusoes- The Ship Wreck - Also A Voyage to Norway  and The Fisherman's Cottage.,Literary,Strickland| Agnes
+pg34932,Mystery and Confidence: A Tale. Vol. 1,Literary,Pinchard| Elizabeth Sibthorpe
+pg34933,Mystery and Confidence: A Tale. Vol. 3,Literary,Pinchard| Elizabeth Sibthorpe
+pg34934,£19-000,Detective and Mystery,Delannoy| Burford
+pg34947,The House of Strange Secrets: A Detective Story,Detective and Mystery,Bayly| A. Eric
+pg34968,Mystery and Confidence: A Tale. Vol. 2,Literary,Pinchard| Elizabeth Sibthorpe
+pg34999,The Count of Nideck - adapted from the French of Erckmann-Chartrian,Literary,Erckmann-Chatrian| | Fiske| Ralph Browning
+pg35003,The House in the Mist,Detective and Mystery,Green| Anna Katharine
+pg35038,The Carleton Case,Literary,Clark| Ellery H.
+pg35057,Dilemmas of Pride- (Vol 2 of 3),Literary,Loudon| Mrs.
+pg35058,Dilemmas of Pride- (Vol 3 of 3),Literary,Loudon| Mrs.
+pg35077,Girl Alone,Literary,Austin| Anne
+pg35078,The Mesa Trail,Western Stories,Bedford-Jones| H.
+pg35140,The Blind Mother- and The Last Confession,Literary,Caine| Sir Hall
+pg35146,The Solitary Farm,Detective and Mystery,Hume| Fergus
+pg35203,In the Van- The Builders,Literary,Price-Brown| John
+pg35205,Who?,Detective and Mystery,Kent| Elizabeth
+pg35214,The Guerilla Chief- and Other Tales,Literary,Reid| Mayne
+pg35217,The Oyster,Literary,Peer|
+pg35233,The Streets of Ascalon - Episodes in the Unfinished Career of Richard Quarren- Esqre.,Literary,Chambers| Robert W.
+pg35254,In the Onyx Lobby,Detective and Mystery,Wells| Carolyn
+pg35294,A Wife's Duty: A Tale,Literary,Opie| Amelia
+pg35296,Sir Brook Fossbrooke- Volume I.,Literary,Lever| Charles James
+pg35297,Sir Brook Fossbrooke- Volume II.,Literary,Lever| Charles James
+pg35304,The Last Stroke: A Detective Story,Detective and Mystery,Lynch| Lawrence L.
+pg35313,A Practical Novelist,Literary,Davidson| John
+pg35326,The Long Lane's Turning,Literary,Rives| Hallie Erminie
+pg35336,The Lady Evelyn: A Story of To-day,Literary,Pemberton| Max
+pg35358,A Song of a Single Note: A Love Story,Love and Romance,Barr| Amelia E.
+pg35361,The Wicked Marquis,Detective and Mystery,Oppenheim| E. Phillips
+pg35367,Mad: A Story of Dust and Ashes,Literary,Fenn| George Manville
+pg35368,Friends I Have Made,Literary,Fenn| George Manville
+pg35384,Mrs. Geoffrey,Literary,Duchess| 
+pg35424,The Amethyst Box,Detective and Mystery,Green| Anna Katharine
+pg35428,A Charming Fellow- Volume I,Literary,Trollope| Frances Eleanor
+pg35429,A Charming Fellow- Volume II,Literary,Trollope| Frances Eleanor
+pg35430,A Charming Fellow- Volume III,Literary,Trollope| Frances Eleanor
+pg35441,The Dodd Family Abroad- Vol. I,Literary,Lever| Charles James
+pg35442,The Dodd Family Abroad- Vol. II,Literary,Lever| Charles James
+pg35443,Lost Lenore: The Adventures of a Rolling Stone,Sea and Adventure,Reid| Mayne
+pg35462,Sharing Her Crime: A Novel,Detective and Mystery,Fleming| May Agnes
+pg35484,The Black Eagle Mystery,Detective and Mystery,Bonner| Geraldine
+pg35509,The Golden Road,Literary,Allen| Frank Waller
+pg35517,The Three Impostors- The Transmutations,Ghost and Horror,Machen| Arthur
+pg35523,Only One Love- Who Was the Heir,Literary,Garvice| Charles
+pg35527,The Haute Noblesse: A Novel,Literary,Fenn| George Manville
+pg35528,"The Secret of the Sands- The ""Water Lily"" and her Crew",Sea and Adventure,Collingwood| Harry
+pg35533,The Haunted Room: A Tale,Literary,E.| A. L. O.
+pg35548,Doctor Cupid: A Novel,Literary,Broughton| Rhoda
+pg35599,The Funny Philosophers- or Wags and Sweethearts.  A Novel,Literary,Yellott| George
+pg35661,Mysterious Mr. Sabin,Detective and Mystery,Oppenheim| E. Phillips
+pg35664,Titan: A Romance. v. 1 (of 2),Literary,Paul| Jean
+pg35691,The Late Tenant,Literary,Tracy| Louis
+pg35740,The Game and the Candle,Literary,Ingram| Eleanor M.
+pg35765,Lily Pearl and The Mistress of Rosedale,Literary,Glenwood| Ida
+pg35769,Dilemmas of Pride- (Vol 1 of 3),Literary,Loudon| Mrs
+pg35785,The Hills of Refuge: A Novel,Literary,Harben| Will N.
+pg35787,Plain Mary Smith: A Romance of Red Saunders,Humorous and Wit and Satire,Phillips| Henry Wallace
+pg35833,The Black Star: A Detective Story,Detective and Mystery,McCulley| Johnston
+pg35902,Final Proof- The Value of Evidence,Detective and Mystery,Ottolengui| Rodrigues
+pg35912,The Finger of Fate: A Romance,Literary,Reid| Mayne
+pg35913,The Child Wife,Literary,Reid| Mayne
+pg36027,Silent Struggles,Literary,Stephens| Ann S.
+pg36029,A Speckled Bird,Literary,Evans| Augusta J.
+pg36071,Hesperus- Forty-Five Dog-Post-Days: A Biography. Vol. I.,Literary,Paul| Jean
+pg36087,Hesperus- Forty-Five Dog-Post-Days: A Biography. Vol. II.,Literary,Paul| Jean
+pg36159,The Letter of Credit,Love and Romance,Warner| Susan
+pg36199,Bijou,Literary,Gyp| 
+pg36232,The Shooting of Dan McGrew- A Novel. Based on the Famous Poem of Robert Service,Literary,Dana| Marvin| Service| Robert W.
+pg36247,The Red Mouse: A Mystery Romance,Detective and Mystery,Osborne| William Hamilton
+pg36353,The Invisible Lodge,Literary,Paul| Jean
+pg36360,Faithful Margaret: A Novel,Literary,Simpson| Mrs. J. M.
+pg36364,Zoe- Some Day: A Novel,Literary,Leonard| May
+pg36366,Dangerous Ground- The Rival Detectives,Detective and Mystery,Lynch| Lawrence L.
+pg36374,Wives and Widows- The Broken Life,Literary,Stephens| Ann S.
+pg36401,The Turn of the Tide: The Story of How Margaret Solved Her Problem,Literary,Porter| Eleanor H.
+pg36403,Titan: A Romance. v. 2 (of 2),Literary,Paul| Jean
+pg36414,Jessamine: A Novel,Literary,Harland| Marion
+pg36439,The Story of an Untold Love,Literary,Ford| Paul Leicester
+pg36467,A Butterfly on the Wheel: A Novel,Literary,Hemmerde| Edward G.| Neilson| Francis| Thorne| Guy
+pg36588,The Red Derelict,Sea and Adventure,Mitford| Bertram
+pg36593,Fordham's Feud,Literary,Mitford| Bertram
+pg36713,The Haunted Homestead: A Novel,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg36723,One Maid's Mischief,Literary,Fenn| George Manville
+pg36758,Cynthia Wakeham's Money,Detective and Mystery,Green| Anna Katharine
+pg36875,Midnight Webs,Literary,Fenn| George Manville
+pg37081,In Strange Company: A Story of Chili and the Southern Seas,Sea and Adventure,Boothby| Guy
+pg37107,A Life For a Love: A Novel,Literary,Meade| L. T.
+pg37204,The Ranchman,Western Stories,Seltzer| Charles Alden
+pg37208,The Wayfarers,Literary,Cutting| Mary Stewart
+pg37338,The Crime Doctor,Detective and Mystery,Hornung| E. W.
+pg37355,Pray You- Sir- Whose Daughter?,Literary,Gardener| Helen H.
+pg37412,The Empty Sack,Literary,King| Basil
+pg37430,The Sin of Monsieur Pettipon- and other humorous tales,Humorous and Wit and Satire,Connell| Richard Edward
+pg37451,Rough-Hewn,Literary,Fisher| Dorothy Canfield
+pg37467,Daisy Thornton,Literary,Holmes| Mary Jane
+pg37476,Jessie Graham,Literary,Holmes| Mary Jane
+pg37479,The Debit Account,Literary,Onions| Oliver
+pg37490,The Gray Phantom's Return,Detective and Mystery,Landon| Herman
+pg37664,The Sins of the Children: A Novel,Literary,Hamilton| Cosmo
+pg37710,Mavis of Green Hill,Love and Romance,Baldwin| Faith
+pg37781,Notwithstanding,Literary,Cholmondeley| Mary
+pg37827,The Open Question: A Tale of Two Temperaments,Literary,Robins| Elizabeth
+pg37838,The Story of Louie,Literary,Onions| Oliver
+pg37866,A Humble Enterprise,Literary,Cambridge| Ada
+pg37913,The Gray Phantom,Detective and Mystery,Landon| Herman
+pg37919,In Accordance with the Evidence,Literary,Onions| Oliver
+pg38006,The Heatherford Fortune - a sequel to the Magic Cameo,Literary,Sheldon| Mrs. Georgie
+pg38186,The Sailor,Literary,Snaith| J. C.
+pg38199,Kenneth McAlpine: A Tale of Mountain- Moorland and Sea,Literary,Stables| Gordon
+pg38212,The Making of William Edwards- The Story of the Bridge of Beauty,Literary,Banks| Mrs. G. Linnaeus
+pg3828,Simon the Jester,Humorous and Wit and Satire,Locke| William John
+pg38291,A Witch of the Hills- v. 1 [of 2],Literary,Warden| Florence
+pg38292,A Witch of the Hills- v. 2 [of 2],Literary,Warden| Florence
+pg38325,The Happy Warrior,Literary,Hutchinson| A. S. M.
+pg38368,A Knight on Wheels,Literary,Hay| Ian
+pg38474,Loaded Dice,Literary,Clark| Ellery H.
+pg38489,Gargoyles,Literary,Hecht| Ben
+pg38623,The Story of Charles Strange: A Novel. Vol. 1 (of 3),Literary,Wood| Mrs. Henry
+pg38624,The Story of Charles Strange: A Novel. Vol. 2 (of 3),Literary,Wood| Mrs. Henry
+pg38625,The Story of Charles Strange: A Novel. Vol. 3 (of 3),Literary,Wood| Mrs. Henry
+pg38679,Miranda of the Balcony: A Story,Literary,Mason| A. E. W.
+pg38685,The Truants,Literary,Mason| A. E. W.
+pg38689,The Turnstile,Literary,Mason| A. E. W.
+pg38702,The Maker of Opportunities,Literary,Gibbs| George
+pg38715,A Singular Metamorphosis,Literary,Skiles| May Evelyn
+pg38798,The Monctons: A Novel. Volume 2 (of 2),Literary,Moodie| Susanna
+pg38888,Out of a Labyrinth,Detective and Mystery,Lynch| Lawrence L.
+pg39018,Mr. Marx's Secret,Detective and Mystery,Oppenheim| E. Phillips
+pg39066,The White Blackbird,Literary,Aitken| Robert
+pg39111,Miser Farebrother: A Novel (vol. 1 of 3),Literary,Farjeon| B. L.
+pg39192,It May Be True- Vol. 2 (of 3),Literary,Wood| Mrs. Henry
+pg39193,It May Be True- Vol. 3 (of 3),Literary,Wood| Mrs. Henry
+pg39207,Tales for Fifteen,Literary,Cooper| James Fenimore
+pg39345,Mitchelhurst Place: A Novel. Vol. 1 (of 2),Literary,Veley| Margaret
+pg39349,Wyndham's Pal,Literary,Bindloss| Harold
+pg39359,Mabel: A Novel. Vol. 3 (of 3),Literary,Newby| Mrs. C. J.
+pg39377,Mildred Arkell: A Novel. Vol. 2 (of 3),Literary,Wood| Mrs. Henry
+pg39417,A Gamble with Life,Detective and Mystery,Hocking| Silas K.
+pg39425,The Mysterious Wanderer- Vol. III - A Novel in Three Volumes,Literary,Reeve| Sophia
+pg39556,Guy and Pauline,Literary,MacKenzie| Compton
+pg39616,In the Hands of the Malays- and Other Stories,Sea and Adventure,Henty| G. A.
+pg39660,Sylvia & Michael: The later adventures of Sylvia Scarlett,Literary,MacKenzie| Compton
+pg39692,Mildred Arkell: A Novel. Vol. 1 (of 3),Literary,Wood| Mrs. Henry
+pg39693,Mildred Arkell: A Novel. Vol. 3 (of 3),Literary,Wood| Mrs. Henry
+pg39731,The Marriage of Esther,Literary,Boothby| Guy
+pg39768,Vassall Morton: A Novel,Literary,Parkman| Francis
+pg39813,A Sovereign Remedy,Literary,Steel| Flora Annie Webster
+pg39905,Upsidonia,Humorous and Wit and Satire,Marshall| Archibald
+pg39940,Ashton-Kirk- Secret Agent,Detective and Mystery,McIntyre| John Thomas
+pg40111,In Silk Attire: A Novel,Literary,Black| William
+pg40114,Fashion and Famine,Literary,Stephens| Ann S.
+pg40180,A Woman's Love,Literary,Opie| Amelia
+pg40199,Mabel: A Novel. Vol. 2 (of 3),Literary,Newby| Mrs. C. J.
+pg40278,The Threatening Eye,Literary,Knight| E. F.
+pg40324,True to a Type- Vol. 1 (of 2),Literary,Cleland| Robert
+pg40325,True to a Type- Vol. 2 (of 2),Literary,Cleland| Robert
+pg40347,The Coward Behind the Curtain,Literary,Marsh| Richard
+pg40348,The Crime and the Criminal,Detective and Mystery,Marsh| Richard
+pg40418,It May Be True- Vol. 1 (of 3),Literary,Wood| Mrs. Henry
+pg40431,Miss Hildreth: A Novel- Volume 1,Literary,Stevens| Augusta de Grasse
+pg40432,Miss Hildreth: A Novel- Volume 2,Literary,Stevens| Augusta de Grasse
+pg40433,Miss Hildreth: A Novel- Volume 3,Literary,Stevens| Augusta de Grasse
+pg40450,Violet Forster's Lover,Literary,Marsh| Richard
+pg40451,Under One Flag,Literary,Marsh| Richard
+pg40452,The Twickenham Peerage,Literary,Marsh| Richard
+pg4046,The Garden of Survival,Ghost and Horror,Blackwood| Algernon
+pg40484,Black Star's Campaign: A Detective Story,Detective and Mystery,McCulley| Johnston
+pg40491,The Red Lottery Ticket,Detective and Mystery,Boisgobey| Fortunu
+pg40493,The King of Diamonds: A Tale of Mystery and Adventure,Detective and Mystery,Tracy| Louis
+pg40495,The Ordeal of Elizabeth,Literary,Anonymous
+pg40545,The Splendid Fairing,Literary,Holme| Constance
+pg40566,Moth and Rust  Together with Geoffrey's Wife and The Pitfall,Literary,Cholmondeley| Mary
+pg40611,Prince Charlie,Literary,Delannoy| Burford
+pg40651,The Hypocrite,Literary,Thorne| Guy
+pg40672,The White Virgin,Literary,Fenn| George Manville
+pg40673,The Tiger Lily,Literary,Fenn| George Manville
+pg40674,Sawn Off: A Tale of a Family Tree,Literary,Fenn| George Manville
+pg40702,Gretchen: A Novel,Literary,Holmes| Mary Jane
+pg40821,Fighting Byng: A Novel of Mystery- Intrigue and Adventure,Detective and Mystery,Stone| A.
+pg4084,The Adventures of Peregrine Pickle,Literary,Smollett| T.
+pg40926,Meg- of Valencia,Literary,Jarrell| Myra Williams
+pg40998,The Day of Temptation,Literary,Queux| William Le
+pg40999,Stolen Souls,Literary,Queux| William Le
+pg41089,The Sign of the Stranger,Detective and Mystery,Queux| William Le
+pg41122,Rayton: A Backwoods Mystery,Literary,Roberts| Theodore Goodridge
+pg41191,Jenifer's Prayer,Literary,Crane| Oliver
+pg41212,The Eve of All-Hallows- Adelaide of Tyrconnel- v. 1 of 3,Literary,Hartstonge| Matthew Weld
+pg41247,Ten Thousand a-Year. Volume 3.,Literary,Warren| Samuel
+pg41284,The Arm-Chair at the Inn,Literary,Smith| Francis Hopkinson
+pg41313,My Danish Sweetheart: A Novel. Volume 1 of 3,Sea and Adventure,Russell| William Clark
+pg41314,My Danish Sweetheart: A Novel. Volume 2 of 3,Sea and Adventure,Russell| William Clark
+pg41315,My Danish Sweetheart: A Novel. Volume 3 of 3,Sea and Adventure,Russell| William Clark
+pg41329,Mrs. Dorriman: A Novel. Volume 1 of 3,Literary,Chetwynd| Mrs. Henry Wayland
+pg41330,Mrs. Dorriman: A Novel. Volume 2 of 3,Literary,Chetwynd| Mrs. Henry Wayland
+pg41331,Mrs. Dorriman: A Novel. Volume 3 of 3,Literary,Chetwynd| Mrs. Henry Wayland
+pg41332,Ten Thousand a-Year. Volume 2.,Literary,Warren| Samuel
+pg41339,Mount Royal: A Novel. Volume 1 of 3,Literary,Braddon| M. E.
+pg41340,Mount Royal: A Novel. Volume 2 of 3,Literary,Braddon| M. E.
+pg41341,Mount Royal: A Novel. Volume 3 of 3,Literary,Braddon| M. E.
+pg41374,Mohawks: A Novel. Volume 1 of 3,Literary,Braddon| M. E.
+pg41375,Mohawks: A Novel. Volume 2 of 3,Literary,Braddon| M. E.
+pg41376,Mohawks: A Novel. Volume 3 of 3,Literary,Braddon| M. E.
+pg41459,The Broken Thread,Detective and Mystery,Queux| William Le
+pg41483,The Yazoo Mystery: A Novel,Literary,Craddock| Irving
+pg41490,The Decadent: Being the Gospel of Inaction - Wherein Are Set Forth in Romance Form Certain Reflections Touching the Curious Characteristics of These Ultimate Years- and the Divers Causes Thereof,Literary,Cram| Ralph Adams
+pg41525,The House Opposite: A Mystery,Detective and Mystery,Kent| Elizabeth
+pg41542,Rose Clark,Literary,Fern| Fanny
+pg41564,Mabel: A Novel. Vol. 1 (of 3),Literary,Newby| Mrs. C. J.
+pg41660,A Fortnight of Folly,Literary,Conway| Hugh| Thompson| Maurice
+pg41672,A Changed Heart: A Novel,Literary,Fleming| May Agnes
+pg41764,Albrecht,Literary,Bates| Arlo
+pg41790,Quintus Oakes: A Detective Story,Detective and Mystery,Jackson| Charles Ross
+pg41794,The Last Miracle,Literary,Shiel| M. P.
+pg41817,John Marvel- Assistant,Literary,Page| Thomas Nelson
+pg41844,The Golden Bough,Literary,Gibbs| George
+pg41859,The Terms of Surrender,Literary,Tracy| Louis
+pg41863,Ragna,Literary,Costantini| Anna Miller
+pg41932,A Fair Mystery: The Story of a Coquette,Literary,Brame| Charlotte M.
+pg41963,The Debatable Land: A Novel,Literary,Colton| Arthur
+pg42010,The Barrel Mystery,Detective and Mystery,Flynn| William J.
+pg42095,The Eve of All-Hallows- Adelaide of Tyrconnel- v. 2 of 3,Literary,Hartstonge| Matthew Weld
+pg42115,The Trail-Hunter: A Tale of the Far West,Western Stories,Aimard| Gustave
+pg42117,The Pirates of the Prairies: Adventures in the American Desert,Western Stories,Aimard| Gustave
+pg42145,The World Before Them: A Novel. Volume 2 (of 3),Literary,Moodie| Susanna
+pg42165,The World Before Them: A Novel. Volume 1 (of 3),Literary,Moodie| Susanna
+pg42174,The World Before Them: A Novel. Volume 3 (of 3),Literary,Moodie| Susanna
+pg42320,The Shadow of a Sin,Literary,Brame| Charlotte M.
+pg42423,Justin Wingate- Ranchman,Western Stories,Whitson| John Harvey
+pg42462,Barbara Rebell,Literary,Lowndes| Marie Belloc
+pg42491,Lady Eureka- The Mystery: A Prophecy of the Future. Volume 1,Literary,Williams| Robert Folkestone
+pg42492,Lady Eureka- The Mystery: A Prophecy of the Future. Volume 2,Literary,Williams| Robert Folkestone
+pg42493,Lady Eureka- The Mystery: A Prophecy of the Future. Volume 3,Literary,Williams| Robert Folkestone
+pg42496,Miracle Gold: A Novel (Vol. 2 of 3),Literary,Dowling| Richard
+pg42498,Miracle Gold: A Novel (Vol. 1 of 3),Literary,Dowling| Richard
+pg42499,Miracle Gold: A Novel (Vol. 3 of 3),Literary,Dowling| Richard
+pg42519,Blackthorn Farm,Literary,Applin| Arthur
+pg42533,Narcissus,Literary,Scott| Evelyn
+pg42534,The Narrow House,Literary,Scott| Evelyn
+pg42536,Yonder,Literary,Young| E. H.
+pg42581,The Deacon: An Original Comedy Drama in Five Acts,Literary,Dale| Horace C.
+pg426,Tales and Fantasies,Literary,Stevenson| Robert Louis
+pg42714,The Luminous Face,Detective and Mystery,Wells| Carolyn
+pg42750,Tempest-Driven: A Romance (Vol. 1 of 3),Literary,Dowling| Richard
+pg42751,Tempest-Driven: A Romance (Vol. 2 of 3),Literary,Dowling| Richard
+pg42752,Tempest-Driven: A Romance (Vol. 3 of 3),Literary,Dowling| Richard
+pg42763,Swords Reluctant,Literary,Pemberton| Max
+pg42772,It Pays to Smile,Literary,Putnam| Nina Wilcox
+pg42807,The Mystery of the Clasped Hands: A Novel,Detective and Mystery,Boothby| Guy
+pg42905,Great Porter Square: A Mystery. v. 1,Detective and Mystery,Farjeon| B. L.
+pg42906,Great Porter Square: A Mystery. v. 2,Detective and Mystery,Farjeon| B. L.
+pg42907,Great Porter Square: A Mystery. v. 3,Detective and Mystery,Farjeon| B. L.
+pg42926,The Last of Their Race,Literary,Swan| Annie S.
+pg43037,Guy Kenmore's Wife- and The Rose and the Lily,Literary,Miller| Mrs. Alex. McVeigh
+pg43080,Devota,Literary,Evans| Augusta J.
+pg43162,Hugh Crichton's Romance,Literary,Coleridge| Christabel R.
+pg43190,Blade-O'-Grass. Golden Grain. and Bread and Cheese and Kisses.,Christmas Stories,Farjeon| B. L.
+pg43449,Mrs. Severn: A Novel- Vol. 1 (of 3),Literary,Carter| Mary Elizabeth
+pg43489,The Gypsy Queen's Vow,Literary,Fleming| May Agnes
+pg43498,Flora Adair- Love Works Wonders. Vol. 1 (of 2),Literary,Donelan| A. M.
+pg43499,Flora Adair- Love Works Wonders. Vol. 2 (of 2),Literary,Donelan| A. M.
+pg43716,The Adventurers,Sea and Adventure,Aimard| Gustave
+pg43743,Munster Village,Literary,Hamilton| Lady Mary
+pg43925,The Prairie Flower: A Tale of the Indian Border,Western Stories,Aimard| Gustave
+pg44018,First Love: A Novel. Vol. 1 of 3,Literary,Loudon| Mrs.
+pg44264,The Eve of All-Hallows- Adelaide of Tyrconnel- v. 3 of 3,Literary,Hartstonge| Matthew Weld
+pg44326,Wanted: A Husband. A Novel,Literary,Adams| Samuel Hopkins
+pg44375,The Bee Hunters: A Tale of Adventure,Sea and Adventure,Aimard| Gustave
+pg44421,The Rebel Chief: A Tale of Guerilla Life,Literary,Aimard| Gustave
+pg44454,The Smuggler Chief: A Novel,Sea and Adventure,Aimard| Gustave
+pg44581,The Stoneground Ghost Tales - Compiled from the recollections of the reverend Roland Batchel- the vicar of the parish.,Ghost and Horror,Swain| E. G.
+pg44633,Held to Answer: A Novel,Literary,MacFarlane| Peter Clark
+pg44796,The Prodigal Village: A Christmas Tale,Christmas Stories,Bacheller| Irving
+pg44803,Little Golden's Daughter- The Dream of a Life Time,Literary,Miller| Mrs. Alex. McVeigh
+pg44819,Kathleen's Diamonds- She Loved a Handsome Actor,Literary,Miller| Mrs. Alex. McVeigh
+pg44828,Wild Margaret,Literary,Garvice| Charles
+pg44841,The Mark of Cain,Detective and Mystery,Wells| Carolyn
+pg44872,The Man Who Fell Through the Earth,Detective and Mystery,Wells| Carolyn
+pg44878,A Man's World,Literary,Edwards| Albert
+pg44984,The Mystery Girl,Detective and Mystery,Wells| Carolyn
+pg45042,A Mock Idyl,Literary,Ross| Percy
+pg45047,The Red River Half-Breed: A Tale of the Wild North-West,Western Stories,Aimard| Gustave
+pg45104,Farewell,Literary,Stacpoole| William Henry
+pg45401,The Guide of the Desert,Western Stories,Aimard| Gustave
+pg45402,The Insurgent Chief,Literary,Aimard| Gustave
+pg45403,The Flying Horseman,Literary,Aimard| Gustave
+pg45618,Deadwood Dick Jr. Branded- Red Rover at Powder Pocket.,Western Stories,Wheeler| Edward L.
+pg45622,The Curved Blades,Detective and Mystery,Wells| Carolyn
+pg45636,Stolen Idols,Detective and Mystery,Oppenheim| E. Phillips
+pg45816,The House on the Moor- v. 1-3,Literary,Oliphant| Mrs.
+pg45817,The House on the Moor- v. 2-3,Literary,Oliphant| Mrs.
+pg45818,The House on the Moor- v. 3-3,Literary,Oliphant| Mrs.
+pg45872,Pretty Geraldine- the New York Salesgirl- Wedded to Her Choice,Literary,Miller| Mrs. Alex. McVeigh
+pg45912,The Vanishing of Betty Varian,Detective and Mystery,Wells| Carolyn
+pg46008,The Room with the Tassels,Detective and Mystery,Wells| Carolyn
+pg46064,The Deep Lake Mystery,Detective and Mystery,Wells| Carolyn
+pg46217,The Romantic Lady,Literary,Arlen| Michael
+pg4632,The Good Time Coming,Literary,Arthur| T. S.
+pg4634,Uncle William: The Man Who Was Shif'less,Literary,Lee| Jennette
+pg46402,Harry Blount- the Detective- The Martin Mystery Solved,Detective and Mystery,Flanagan| T. J.
+pg46457,White Wolf's Law: A Western Story,Western Stories,Dunning| Hal
+pg46505,Alone,Literary,Harland| Marion
+pg4653,God's Good Man: A Simple Love Story,Love and Romance,Corelli| Marie
+pg46566,The Crime Club,Detective and Mystery,Holt-White| W.
+pg46623,At War with Society- Tales of the Outcasts,Detective and Mystery,M'Levy| James
+pg4676,Outpost,Literary,Austin| Jane G.
+pg47211,The Idol of the Blind: A Novel,Literary,Gallon| Tom
+pg47282,A Country Sweetheart,Literary,Russell| Dora
+pg4733,When Egypt Went Broke: A Novel,Literary,Day| Holman
+pg47338,Kate Vernon: A Tale. Vol. 1 (of 3),Literary,Alexander| Mrs.
+pg4745,At the Villa Rose,Detective and Mystery,Mason| A. E. W.
+pg47455,The Fiction Factory - Being the experience of a writer who- for twenty-two years- has kept a story-mill grinding successfully,Literary,Cook| William Wallace
+pg47697,"Odette's Marriage - A Novel- from the French of Albert Delpit- Translated from the ""Revue des Deux Mondes||"" by Emily Prescott",Literary,Delpit| Albert
+pg47744,Sekhet,Literary,Miller| Irene
+pg47771,Mirk Abbey- Volume 1 (of 3),Literary,Payn| James
+pg47772,Mirk Abbey- Volume 2 (of 3),Literary,Payn| James
+pg47773,Mirk Abbey- Volume 3 (of 3),Literary,Payn| James
+pg4790,Half a Rogue,Literary,MacGrath| Harold
+pg4794,Dawn,Literary,Adams| Mrs. H. A.
+pg4795,The Circassian Slave- the Sultan's favorite : a story of Constantinople and the Caucasus,Literary,Ballou| Maturin Murray
+pg47997,A Life for a Life- Volume 1 (of 3),Literary,Craik| Dinah Maria Mulock
+pg48297,A Soldier's Daughter- and Other Stories,Sea and Adventure,Henty| G. A.
+pg48482,A Life for a Life- Volume 2 (of 3),Literary,Craik| Dinah Maria Mulock
+pg48483,A Life for a Life- Volume 3 (of 3),Literary,Craik| Dinah Maria Mulock
+pg48989,Tinman,Literary,Gallon| Tom
+pg4903,Hilda Wade- a Woman with Tenacity of Purpose,Literary,Allen| Grant
+pg4918,The Lilac Sunbonnet: A Love Story,Love and Romance,Crockett| S. R.
+pg4923,King Midas: a Romance,Literary,Sinclair| Upton
+pg4929,The Fashionable Adventures of Joshua Craig: A Novel,Sea and Adventure,Phillips| David Graham
+pg49537,The Spider and the Fly- An Undesired Love,Literary,Garvice| Charles
+pg4955,Leah Mordecai: A Novel,Literary,Abbott| Belle K.
+pg49680,Chetwynd Calverley - New Edition- 1877,Literary,Ainsworth| William Harrison
+pg49718,The Desultory Man - Collection of Ancient and Modern British Novels and Romances. Vol. CXLVII.,Literary,James| G. P. R.
+pg50042,The Forgery- Best Intentions.,Literary,James| G. P. R.
+pg502,Desert Gold,Western Stories,Grey| Zane
+pg50209,The Mystery of the Sycamore,Detective and Mystery,Wells| Carolyn
+pg50440,Leslie's Loyalty,Literary,Garvice| Charles
+pg50688,De L'Orme. - The Works of G. P. R. James- Esq.|| Vol. XVI.,Literary,James| G. P. R.
+pg5094,"The Romance of Elaine - Sequel to ""Exploits of Elaine""",Detective and Mystery,Reeve| Arthur B.
+pg51251,Morley Ernstein- the Tenants of the Heart,Literary,James| G. P. R.
+pg51455,The Fate: A Tale of Stirring Times,Literary,James| G. P. R.
+pg515,Margret Howth: A Story of To-day,Literary,Davis| Rebecca Harding
+pg5151,The Exploits of Elaine,Detective and Mystery,Reeve| Arthur B.
+pg51628,Delaware- The Ruined Family. Vol. 1,Literary,James| G. P. R.
+pg51629,Delaware- The Ruined Family. Vol. 2,Literary,James| G. P. R.
+pg51630,Delaware- The Ruined Family. Vol. 3,Literary,James| G. P. R.
+pg5165,Innocent : her fancy and his fact,Love and Romance,Corelli| Marie
+pg51715,A Whim- and Its Consequences - Collection of British Authors Vol. CXIV,Literary,James| G. P. R.
+pg5176,Corpus of a Siam Mosquito,Literary,Sills| Steven
+pg5179,A Siren,Detective and Mystery,Trollope| Thomas Adolphus
+pg51936,Daireen. Volume 1 of 2,Literary,Moore| Frank Frankfort
+pg51937,Daireen. Volume 2 of 2,Literary,Moore| Frank Frankfort
+pg51938,Daireen. Complete,Literary,Moore| Frank Frankfort
+pg51972,Priscilla and Charybdis: A Story of Alternatives,Literary,Moore| Frank Frankfort
+pg51988,Well- After All,Literary,Moore| Frank Frankfort
+pg5234,The Confessions of Harry Lorrequer — Volume 1,Literary,Lever| Charles James
+pg5235,The Confessions of Harry Lorrequer — Volume 2,Literary,Lever| Charles James
+pg5236,The Confessions of Harry Lorrequer — Volume 3,Literary,Lever| Charles James
+pg5237,The Confessions of Harry Lorrequer — Volume 4,Literary,Lever| Charles James
+pg5238,The Confessions of Harry Lorrequer — Volume 5,Literary,Lever| Charles James
+pg5239,The Confessions of Harry Lorrequer — Volume 6,Literary,Lever| Charles James
+pg5240,The Confessions of Harry Lorrequer — Complete,Literary,Lever| Charles James
+pg525,Youth- a Narrative,Sea and Adventure,Conrad| Joseph
+pg53356,Kate Vernon: A Tale. Vol. 2 (of 3),Literary,Alexander| Mrs.
+pg53604,The Touch of Abner,Literary,Cody| H. A.
+pg53668,Kate Vernon: A Tale. Vol. 3 (of 3),Literary,Alexander| Mrs.
+pg547,Baron Trigault's Vengeance,Detective and Mystery,Gaboriau| Emile
+pg5622,At Last: A Novel,Literary,Harland| Marion
+pg5662,The Potato Child & Others,Christmas Stories,Woodbury| Lucia Prudence Hall
+pg5663,The Prose of Alfred Lichtenstein,Literary,Lichtenstein| Alfred
+pg5705,The Queen of Sheba- and My Cousin the Colonel,Literary,Aldrich| Thomas Bailey
+pg5848,The Flyers,Literary,McCutcheon| George Barr
+pg5869,Michael's Crag,Literary,Allen| Grant
+pg587,Danny's Own Story,Humorous and Wit and Satire,Marquis| Don
+pg6005,Celibates,Literary,Moore| George Augustus
+pg6028,Opening a Chestnut Burr,Literary,Roe| Edward Payson
+pg6057,Fran,Literary,Ellis| J. Breckenridge
+pg6060,Philistia,Literary,Allen| Grant
+pg6102,From Jest to Earnest,Literary,Roe| Edward Payson
+pg6105,Their Yesterdays,Love and Romance,Wright| Harold Bell
+pg6113,A Day of Fate,Love and Romance,Roe| Edward Payson
+pg6292,No Defense- Volume 1.,Literary,Parker| Gilbert
+pg6293,No Defense- Volume 2.,Literary,Parker| Gilbert
+pg6294,No Defense- Volume 3.,Literary,Parker| Gilbert
+pg6295,No Defense- Complete,Literary,Parker| Gilbert
+pg6296,Carnac's Folly- Volume 1.,Literary,Parker| Gilbert
+pg6297,Carnac's Folly- Volume 2.,Literary,Parker| Gilbert
+pg6298,Carnac's Folly- Volume 3.,Literary,Parker| Gilbert
+pg6299,Carnac's Folly- Complete,Literary,Parker| Gilbert
+pg6311,A Knight of the Nineteenth Century,Literary,Roe| Edward Payson
+pg6376,Self-Raised- From the Depths,Literary,Southworth| Emma Dorothy Eliza Nevitte
+pg6410,Once Aboard the Lugger-- The History of George and his Mary,Humorous and Wit and Satire,Hutchinson| A. S. M.
+pg6474,The Iron Woman,Literary,Deland| Margaret Wade Campbell
+pg6517,The Grey Lady,Literary,Merriman| Henry Seton
+pg6526,Any Coincidence Is - The Day Julia & Cecil the Cat Faced a Fate Worse Than Death,Literary,Callahan| Daniel
+pg6592,Si'Wren of the Patriarchs,Literary,Cheney| Roland Jon
+pg6809,The Doctor's Daughter,Literary,Vera|
+pg681,Creatures That Once Were Men,Literary,Gorky| Maksim
+pg6864,Average Jones,Detective and Mystery,Adams| Samuel Hopkins
+pg6901,The Happy Adventurers,Literary,Middleton| Lydia Miller
+pg6954,Aikenside,Literary,Holmes| Mary Jane
+pg7063,A Terrible Secret: A Novel,Literary,Fleming| May Agnes
+pg7085,Fanshawe,Literary,Hawthorne| Nathaniel
+pg7119,The Dolliver Romance,Literary,Hawthorne| Nathaniel
+pg7171,Linda Condon,Literary,Hergesheimer| Joseph
+pg7183,Doctor Grimshawe's Secret — a Romance,Literary,Hawthorne| Nathaniel
+pg726,A Psychological Counter-Current in Recent Fiction,Literary,Howells| William Dean
+pg7424,The Wishing-Ring Man,Literary,Widdemer| Margaret
+pg7757,Falkland- Book 1.,Literary,Lytton| Baron Edward Bulwer Lytton
+pg7758,Falkland- Book 2.,Literary,Lytton| Baron Edward Bulwer Lytton
+pg7759,Falkland- Book 3.,Literary,Lytton| Baron Edward Bulwer Lytton
+pg7760,Falkland- Book 4.,Literary,Lytton| Baron Edward Bulwer Lytton
+pg7761,Falkland- Complete,Literary,Lytton| Baron Edward Bulwer Lytton
+pg7827,Fan : The Story of a Young Girl's Life,Literary,Hudson| W. H.
+pg7842,The Rise of Iskander,Literary,Disraeli| Earl of Beaconsfield Benjamin
+pg7855,The Vision of Desire,Literary,Pedler| Margaret
+pg7866,An Ambitious Man,Literary,Wilcox| Ella Wheeler
+pg8073,A Fool for Love,Literary,Lynde| Francis
+pg8087,A Fountain Sealed,Literary,Sedgwick| Anne Douglas
+pg8131,The Misses Mallett (The Bridge Dividing),Literary,Young| E. H.
+pg8182,The Ghost of Guir House,Ghost and Horror,Beale| Charles Willing
+pg8383,Monsieur Maurice,Literary,Edwards| Amelia Ann Blanford
+pg8386,Ptomaine Street: The Tale of Warble Petticoat,Literary,Wells| Carolyn
+pg8396,The Gentleman: A Romance of the Sea,Sea and Adventure,Ollivant| Alfred
+pg8403,Young People's Pride: A Novel,Literary,Ben Stephen Vincent
+pg8464,Rest Harrow: A Comedy of Resolution,Literary,Hewlett| Maurice
+pg8522,The Puritans,Literary,Bates| Arlo
+pg8549,The Woman with the Fan,Literary,Hichens| Robert
+pg8569,The Far Horizon,Literary,Malet| Lucas
+pg8570,The Philistines,Literary,Bates| Arlo
+pg8596,The Wheel O' Fortune,Literary,Tracy| Louis
+pg8671,The Pagans,Literary,Bates| Arlo
+pg8711,The Living Link: A Novel,Literary,Mille| James De
+pg8741,The Brass Bowl,Literary,Vance| Louis Joseph
+pg8805,From One Generation to Another,Literary,Merriman| Henry Seton
+pg8865,Miss Theodosia's Heartstrings,Literary,Donnell| Annie Hamilton
+pg8883,A Love Story,Literary,Christie| William Harvey
+pg8899,Three Weeks,Love and Romance,Glyn| Elinor
+pg9052,The Golden Calf,Literary,Braddon| M. E.
+pg9087,Eleanor,Literary,Ward| Mrs. Humphry
+pg9111,The Bride of Dreams,Literary,Eeden| Frederik van
+pg9189,Henry Dunbar: A Novel,Literary,Braddon| M. E.
+pg9259,Charlotte's Inheritance,Literary,Braddon| M. E.
+pg9305,One Day's Courtship- and The Heralds of Fame,Literary,Barr| Robert
+pg9311,Hetty's Strange History,Literary,Jackson| Helen Hunt
+pg9362,Birds of Prey,Literary,Braddon| M. E.
+pg9379,A Woman Intervenes,Literary,Barr| Robert
+pg9387,Theresa Marchmont- the Maid of Honour: A Tale,Literary,Gore| Mrs.
+pg9410,Helen of the Old House,Literary,Wright| Harold Bell
+pg9746,The Ashiel mystery: A Detective Story,Detective and Mystery,Bryce| Mrs. Charles
+pg9747,The Fortune Hunter,Literary,Smith| Winchell| Vance| Louis Joseph
+pg9807,Scarhaven Keep,Detective and Mystery,Fletcher| J. S.
+pg9809,The Price of Things,Literary,Glyn| Elinor
+pg9849,The Brown Mask,Sea and Adventure,Brebner| Percy James
+pg9926,The Two Guardians - Home in This World,Literary,Yonge| Charlotte M.
+pg9927,The Bronze Bell,Sea and Adventure,Vance| Louis Joseph
+pg9967,Mr. Waddington of Wyck,Literary,Sinclair| May
+pg9993,Captivating Mary Carstairs,Literary,Harrison| Henry Sydnor
+pg105JaneAusPersuatn,Persuasion,Literary,Austen| Jane
+pg108DoyleReturnSherlk,Return of Sherlock Holmes,Detective and Mystery,Connan| Doyle
+pg1155Agatha2,The Secret Adversary,Detective and Mystery,Christie| Agatha
+pg11CarolAlice,Alice's Adventures in Wonderland,Literary,Carroll| Lewis
+pg12CarolGlassLook,Through the Looking-Glass,Literary,Carroll| Lewis
+pg1342JaneAustenPP,Pride and Prejudice,Literary,Austen| Jane
+pg13720HermanVoyage1,Mardi: and A Voyage Thither I,Sea and Adventure,Melville| Herman
+pg13721HermanVoyage2,Mardi: and A Voyage Thither ||,Sea and Adventure,Melville| Herman
+pg1400DickensGreatExp,Great Expectations,Literary,Dickens| Charles
+pg141JaneAusMansPark,Mansfield Park,Literary,Austen| Jane
+pg158JaneAustenEmma,Emma,Literary,Austen| Jane
+pg161SJaneAusSensSensi,Sense and Sensibility,Literary,Austen| Jane
+pg19337DickensChristCarl,A Christmas Carol,Christmas Stories,Dickens| Charles
+pg2097DoyleSignFour,The Sign of Four,Detective and Mystery,Connan| Doyle
+pg2147EdgarPoe1,The Works of Edgar Allan Poe I,Detective and Mystery,Poe| Edgar Allan
+pg2148EdgarPoe2,The Works of Edgar Allan Poe II,Detective and Mystery,Poe| Edgar Allan
+pg2149EdgarPoe3,The Works of Edgar Allan Poe III,Detective and Mystery,Poe| Edgar Allan
+pg2150EdgarPoe4,The Works of Edgar Allan Poe IV,Detective and Mystery,Poe| Edgar Allan
+pg21816HermanConfidence,The Confidence-Man,Literary,Melville| Herman
+pg2684Galsw4,Five Tales,Literary,Galsworthy| John
+pg2701HermanMobyDick,Moby Dick,Sea and Adventure,Melville| Herman
+pg2852DoyleHound,The Hound of the Baskervilles,Detective and Mystery,Connan| Doyle
+pg29042CarolTangTale,A Tangled Tale,Literary,Carroll| Lewis
+pg2911Galsw2,Justice,Literary,Galsworthy| John
+pg2919Galsw5,The Little Man,Literary,Galsworthy| John
+pg34970HermanPierre,Pierre or The Ambiguities,Literary,Melville| Herman
+pg4045HermanOmmo,Omoo Adventures in the South Seas,Sea and Adventure,Melville| Herman
+pg4397Galsw1,The Forsyte Saga,Literary,Galsworthy| John
+pg4763CarolLogik,The Game of Logic,Literary,Carroll| Lewis
+pg4765Galsw3,Loyalties,Literary,Galsworthy| John
+pg537DoyleTerrorTales,Tales of Terror and Mystery,Detective and Mystery,Connan| Doyle
+pg620CarolBruno,Sylvie and Bruno,Literary,Carroll| Lewis
+pg730DickensOliverTw,Oliver Twist,Literary,Dickens| Charles
+pg766DickensDavidCopfld,David Copperfield,Literary,Dickens| Charles
+pg786DickensHardTimes,Hard Times,Literary,Dickens| Charles
+pg834DoyleMemoirsSherlk,Memoirs of Shelock Holmes,Detective and Mystery,Connan| Doyle
+pg863Agatha1,The Mysterious Affair at Styles,Detective and Mystery,Christie| Agatha
+pg98DickensTaleCities,A Tale of Two Cities,Literary,Dickens| Charles
