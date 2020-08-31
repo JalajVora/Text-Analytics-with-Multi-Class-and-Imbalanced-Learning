@@ -3,7 +3,7 @@
 Text Analytics with Multi-Class and Imbalanced Learning
 
 - [Advanced Topics in Machine Learning](http://www.dke.ovgu.de/findke/en/Studies/Courses/Summer+Term+2020/Advanced+Topics+in+Machine+Learning-p-1228.html)
-- [Documentation of the Project](Text-Analytics-with-Multi-Class-and-Imbalanced-Learning/docs/ATiML_Project_Paper.pdf)
+- [Documentation of the Project](https://github.com/JalajVora/Text-Analytics-with-Multi-Class-and-Imbalanced-Learning/blob/master/docs/ATiML_Project_Paper.pdf)
 
 ## Genre Identification on (a sub-set of) Gutenberg Corpus
 Consider this set of books belonging to the 19th Century English Fiction1. 
