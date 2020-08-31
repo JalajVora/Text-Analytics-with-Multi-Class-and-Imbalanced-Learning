@@ -7,7 +7,7 @@ This project is part of [Advanced Topics in Machine Learning](http://www.dke.ovg
 ## Problem: Genre Identification on (a sub-set of) Gutenberg Corpus
 Consider this set of books belonging to the 19th Century English Fiction [<sup>1</sup>](http://dke.ovgu.de/findke/en/Research/Data+Sets-p-1140.html).
 
-The data set is created from Project Gutenberg[<sup>2</sup>](https://www.gutenberg.org). The data set consists of about 1000 books and roughly 10 genres. The task here consists of detection (i.e. classification) of genre[<sup>3</sup>](https://en.wikipedia.org/wiki/Genre) of a book. Each data-point in this classification task is a fiction book with a label (genre). Please note the following three main challenges tackled:
+The data set is created from Project Gutenberg[<sup>2</sup>](https://www.gutenberg.org). The data set consists of about 1000 books and roughly 10 genres. The task here consists of detection (i.e. multi-class classification) of genre[<sup>3</sup>](https://en.wikipedia.org/wiki/Genre) of a book. Each data-point in this classification task is a fiction book with a label (genre). Please note the following three main challenges tackled:
 
 1. Extract features that are relevant to fiction books, which may include ideas like sentiment, setting[<sup>4</sup>](https://web.csulb.edu/~yamadaty/EleFic.html) and so on, using appropriate libraries if possible. 
 2. Outline of all the models used and why and how model selection was performed.
