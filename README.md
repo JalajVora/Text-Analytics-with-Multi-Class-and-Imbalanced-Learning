@@ -17,4 +17,4 @@ partitioned while taking into account potential challenges like class imbalances
 similar.
 
 We have one task as a nice-to-have feature (optional): Can we estimate the
-bias and variance5 of at least one of our models and also visualize it?
+bias and variance of at least one of our models and also visualize it?
