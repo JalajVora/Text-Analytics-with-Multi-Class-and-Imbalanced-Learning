@@ -1,6 +1,5 @@
 
 # Text-Analytics-with-Multi-Class-and-Imbalanced-Learning
-Text Analytics with Multi-Class and Imbalanced Learning
 
 This project is part of [Advanced Topics in Machine Learning](http://www.dke.ovgu.de/findke/en/Studies/Courses/Summer+Term+2020/Advanced+Topics+in+Machine+Learning-p-1228.html) subject. Further detailed description of the project can be known in the [documentation of the Project.](https://github.com/JalajVora/Text-Analytics-with-Multi-Class-and-Imbalanced-Learning/blob/master/docs/ATiML_Project_Paper.pdf)
 
