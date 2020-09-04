@@ -11,6 +11,3 @@ The data set is created from Project Gutenberg[<sup>2</sup>](https://www.gutenbe
 1. Extract features that are relevant to fiction books, which may include ideas like sentiment, setting[<sup>4</sup>](https://web.csulb.edu/~yamadaty/EleFic.html) and so on, using appropriate libraries. 
 2. Outline of all the models used and why and how model selection was performed.
 3. Explaination of how the evaluation of the model is being done and how the data set is to be partitioned while taking into account potential challenges like class imbalances and similar.
-
-
-We have one task as a nice-to-have feature (optional): Can we estimate the bias and variance of at least one of our models and also visualize it?
